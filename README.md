@@ -129,7 +129,7 @@ O modelo **SVM** é recomendado para implementação devido à sua precisão con
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/classificacao-seeds.git
+   git clone https://github.com/jhon-IA/fase4_imple_algo.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
